@@ -31,7 +31,7 @@ export const ResultScreen: React.FC<ResultScreenProps> = ({
         
         <img
           src="/kitsuki-thumbsup.png"
-          alt="キツキちゃん"
+          alt="きつみん"
           className="w-32 h-32 mx-auto mb-6 object-contain"
         />
         
